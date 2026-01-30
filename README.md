@@ -104,20 +104,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-ori
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=WellitonGalantt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellitonGalantt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
